@@ -19,7 +19,6 @@ val properties = Properties().apply {
     }
 }
 
-
 android {
     namespace = "dev.donmanuel.weatherapp"
     compileSdk = 35
@@ -77,6 +76,7 @@ dependencies {
     implementation(libs.androidx.ui.graphics)
     implementation(libs.androidx.ui.tooling.preview)
     implementation(libs.androidx.material3)
+    implementation(libs.androidx.ui.text.google.fonts)
 
     // Coroutines
     implementation(libs.kotlinx.coroutines.core)
@@ -127,7 +127,7 @@ dependencies {
     //Dagger Hilt
     androidTestImplementation(libs.hilt.android.testing)
     kspAndroidTest(libs.dagger.hilt.android.compiler)
-    
+
     // Mockito
     testImplementation(libs.mockito.core)
     androidTestImplementation(libs.mockito.android)
