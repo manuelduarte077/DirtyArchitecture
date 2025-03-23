@@ -6,7 +6,7 @@ data class CurrentCity(
 ) {
     companion object {
         fun createToPreview() = CurrentCity(
-            name = "São Paulo",
+            name = "Masaya",
             isFavorite = true
         )
     }
