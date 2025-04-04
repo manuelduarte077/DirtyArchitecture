@@ -36,7 +36,6 @@ kotlin {
             implementation(compose.preview)
             implementation(libs.androidx.activity.compose)
 
-
             implementation(libs.koin.android)
         }
         commonMain.dependencies {
@@ -48,7 +47,6 @@ kotlin {
             implementation(compose.components.uiToolingPreview)
             implementation(libs.androidx.lifecycle.viewmodel)
             implementation(libs.androidx.lifecycle.runtime.compose)
-
 
             implementation(libs.compose.navigation)
             implementation(libs.landscapist.coil3)
@@ -86,6 +84,14 @@ android {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
     }
+
+    buildFeatures {
+        compose = true
+    }
+    dependencies {
+        debugImplementation(compose.uiTooling)
+    }
+
 }
 
 room {
