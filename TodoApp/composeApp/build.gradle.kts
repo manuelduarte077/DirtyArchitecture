@@ -9,11 +9,12 @@ plugins {
     alias(libs.plugins.composeCompiler)
 
     // Room Plugins
-    alias(libs.plugins.ksp)
     alias(libs.plugins.room)
+    alias(libs.plugins.ksp)
 }
 
 kotlin {
+
     androidTarget {
         @OptIn(ExperimentalKotlinGradlePluginApi::class)
         compilerOptions {
@@ -102,11 +103,11 @@ android {
 dependencies {
     debugImplementation(compose.uiTooling)
 
-    // Room target platforms
+    add("kspCommonMainMetadata", libs.room.compiler)
     add("kspAndroid", libs.room.compiler)
-    add("kspIosSimulatorArm64", libs.room.compiler)
     add("kspIosX64", libs.room.compiler)
     add("kspIosArm64", libs.room.compiler)
+    add("kspIosSimulatorArm64", libs.room.compiler)
 }
 
 compose.desktop {
