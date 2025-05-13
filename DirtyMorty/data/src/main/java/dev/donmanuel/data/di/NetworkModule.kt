@@ -4,12 +4,12 @@ import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
 import dagger.hilt.components.SingletonComponent
+import dev.donmanuel.data.BuildConfig
+import dev.donmanuel.data.sources.remote.service.RickAndMortyApi
 import kotlinx.serialization.json.Json
 import okhttp3.MediaType.Companion.toMediaType
 import retrofit2.Retrofit
 import retrofit2.converter.kotlinx.serialization.asConverterFactory
-import dev.donmanuel.data.BuildConfig
-import dev.donmanuel.data.sources.remote.service.RickAndMortyApi
 import javax.inject.Singleton
 
 @Module

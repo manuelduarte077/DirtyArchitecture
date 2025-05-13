@@ -9,12 +9,12 @@ import org.koin.core.context.startKoin
 fun main() = application {
 
     startKoin {
-        modules(desktopDatabaseModule, sharedModule)
+        modules(sharedModule, desktopDatabaseModule)
     }
 
     Window(
         onCloseRequest = ::exitApplication,
-        title = "TodoApp",
+        title = "Todo App",
     ) {
         App()
     }

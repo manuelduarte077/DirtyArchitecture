@@ -1,10 +1,10 @@
 package dev.donmanuel.data.sources.remote.service
 
+import dev.donmanuel.data.sources.remote.models.characters.CharacterDto
+import dev.donmanuel.data.sources.remote.models.characters.CharactersListDto
 import retrofit2.http.GET
 import retrofit2.http.Path
 import retrofit2.http.Query
-import dev.donmanuel.data.sources.remote.models.characters.CharacterDto
-import dev.donmanuel.data.sources.remote.models.characters.CharactersListDto
 
 interface RickAndMortyApi {
 

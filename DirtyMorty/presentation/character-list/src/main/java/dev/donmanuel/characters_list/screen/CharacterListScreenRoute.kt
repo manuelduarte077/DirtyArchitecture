@@ -12,7 +12,6 @@ internal fun CharacterListScreenRoute(
     viewModel: CharacterListScreenViewModel = hiltViewModel<CharacterListScreenViewModel>(),
     navigateToDetailsScreen: (Long) -> Unit
 ) {
-
     val uiState by viewModel.uiState.collectAsStateWithLifecycle()
 
     CharacterListScreen(

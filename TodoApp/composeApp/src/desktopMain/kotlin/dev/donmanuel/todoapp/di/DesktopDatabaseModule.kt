@@ -6,7 +6,5 @@ import dev.donmanuel.todoapp.data.local.RoomDB
 import org.koin.dsl.module
 
 val desktopDatabaseModule = module {
-    single<RoomDatabase.Builder<RoomDB>> {
-        desktopDatabaseBuilder()
-    }
+    single<RoomDatabase.Builder<RoomDB>> { desktopDatabaseBuilder() }
 }

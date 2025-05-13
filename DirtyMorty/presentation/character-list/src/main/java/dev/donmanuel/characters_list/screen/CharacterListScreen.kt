@@ -15,7 +15,7 @@ import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.snapshotFlow
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import dev.donmanuel.characters_list.component.CharacterItem
+import dev.donmanuel.characters_list.composables.CharacterItem
 import dev.donmanuel.characters_list.model.CharacterUi
 import dev.donmanuel.ui_kit.ErrorScreen
 import dev.donmanuel.ui_kit.LoadingIndicator
@@ -33,7 +33,9 @@ internal fun CharacterListScreen(
         modifier = modifier.fillMaxSize(),
         topBar = {
             TopAppBar(
-                title = { Text("Character list") }
+                title = {
+                    Text("Character list")
+                }
             )
         }
     ) { paddingValues ->

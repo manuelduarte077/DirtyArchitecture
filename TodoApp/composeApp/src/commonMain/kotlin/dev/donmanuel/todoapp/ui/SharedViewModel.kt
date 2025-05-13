@@ -2,7 +2,6 @@ package dev.donmanuel.todoapp.ui
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import androidx.lifecycle.viewmodel.compose.viewModel
 import dev.donmanuel.todoapp.data.model.TodoItem
 import dev.donmanuel.todoapp.domain.usecase.DeleteTodoUseCase
 import dev.donmanuel.todoapp.domain.usecase.GetAllTodosUseCase

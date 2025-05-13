@@ -3,6 +3,9 @@ package dev.donmanuel.characters_list.screen
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import dagger.hilt.android.lifecycle.HiltViewModel
+import dev.donmanuel.characters_list.mapper.toCharacterUi
+import dev.donmanuel.characters_list.model.CharacterUi
+import dev.donmanuel.domain.usecases.GetCharactersUseCase
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.SharingStarted
@@ -12,9 +15,6 @@ import kotlinx.coroutines.flow.onSubscription
 import kotlinx.coroutines.flow.stateIn
 import kotlinx.coroutines.flow.update
 import kotlinx.coroutines.launch
-import dev.donmanuel.characters_list.mapper.toCharacterUi
-import dev.donmanuel.characters_list.model.CharacterUi
-import dev.donmanuel.domain.usecases.GetCharactersUseCase
 import javax.inject.Inject
 
 internal sealed interface UiEvent {

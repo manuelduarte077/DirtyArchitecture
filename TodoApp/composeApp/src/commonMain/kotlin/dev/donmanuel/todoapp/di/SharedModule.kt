@@ -26,5 +26,4 @@ val sharedModule = module {
 
     // View Model
     singleOf(::SharedViewModel)
-
 }

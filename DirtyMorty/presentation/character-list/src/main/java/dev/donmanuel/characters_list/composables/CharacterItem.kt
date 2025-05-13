@@ -1,4 +1,4 @@
-package dev.donmanuel.characters_list.component
+package dev.donmanuel.characters_list.composables
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
