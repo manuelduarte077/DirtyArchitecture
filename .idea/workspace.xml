@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b590592-18f2-4c5e-b956-1d7efdc2e41c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KtorExample/composeApp/src/commonMain/kotlin/dev/donmanuel/ktorexample/ui/HomeScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/KtorExample/composeApp/src/commonMain/kotlin/dev/donmanuel/ktorexample/presentation/HomeScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/KtorExample/composeApp/src/commonMain/kotlin/dev/donmanuel/ktorexample/ui/SharedViewModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/KtorExample/composeApp/src/commonMain/kotlin/dev/donmanuel/ktorexample/presentation/SharedViewModel.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/.fleet/receipt.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/build.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/kotlin/dev/robert/moviescatalogue/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/kotlin/dev/robert/moviescatalogue/MoviesApp.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/kotlin/dev/robert/moviescatalogue/Platform.android.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/kotlin/dev/robert/moviescatalogue/data/database/DatabaseFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/kotlin/dev/robert/moviescatalogue/data/datastore/createDataStore.android.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/kotlin/dev/robert/moviescatalogue/di/AppModule.android.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/kotlin/dev/robert/moviescatalogue/theme/Theme.android.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/androidMain/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/bookmark_filled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/bookmark_outline.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/compose-multiplatform.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/home_filled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/home_outline.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/ic_bookmark_boarder.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/ic_bookmark_filled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/ic_folder_filled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/ic_folder_outline.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/ic_home.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/ic_play_filled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/ic_play_outline.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/ic_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/placeholder.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/settings_filled.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/composeResources/drawable/settings_outline.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/App.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/MainViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/Platform.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/ApiService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/Mappers.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/MoviesApiService.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/constants/Constants.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/dao/SavedMovieDao.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/database/SavedMoviesDatabase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/datastore/MoviesCataloguePrefs.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/datastore/createDataStore.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/dto/CreditRes.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/dto/CreditsResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/dto/GenresReponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/dto/MovieDetailsResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/dto/MovieReviewResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/dto/MoviesResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/dto/MultiSearchResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/dto/PaginatedResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/dto/ReviewAuthorDetails.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/dto/SeriesDetailsResponse.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/entity/SavedMovie.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/AiringTodayPagingSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/BasePagingSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/DiscoverMoviesPagingSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/DiscoverTvSeriesPagingSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/MovieReviewsPagingDataSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/MultiSearchPagingSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/NowPlayingMoviesPagingSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/PopularMoviesPagingSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/PopularTvSeriesPagingSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/SimilarMoviesPagingSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/TopRatedMoviesPagingSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/TopRatedTvSeriesPagingSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/TrendingPagingSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/TrendingTodayMoviesPagingSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/TrendingTvSeriesPagingSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/pager/UpcomingMoviesPagingSource.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/data/repository/MoviesRepositoryImpl.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/di/AppModule.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/model/Genre.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/model/Movie.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/model/MovieCast.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/model/MovieDetails.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/model/MovieReview.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/model/RequestState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/model/SearchResult.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/repository/MoviesRepository.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/AddMovieToSaved.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/GetAiringToday.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/GetDiscoverMovies.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/GetDiscoverSeries.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/GetMovieCredits.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/GetMovieDetails.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/GetMovieReviews.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/GetPopularMovies.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/GetPopularSeries.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/GetSimilarMovies.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/GetTrendingUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/MovieDetails.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/MultiSearchUseCase.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/NowPlayingMovies.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/RemoveFromSaved.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/SavedStatus.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/TodayTrendingMovies.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/TopRatedMovies.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/TopRatedTvSeries.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/TrendingTvSeries.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/usecase/UpcomingMovies.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/domain/utils/Utils.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/components/CategoryItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/components/DismissBackground.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/components/FilledTextField.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/components/HotMoviesSection.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/components/MovieItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/components/MovieScoreProgressIndicator.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/components/NetworkImage.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/components/PagingColumnUi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/components/PagingRowUi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/components/ReviewItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/components/SavedMovieItem.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/components/SearchPagingUi.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/components/ShimmerEffect.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/components/ThemeChip.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/home/HomeScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/home/HomeScreenState.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/home/HomeScreenViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/home/view_all/ViewAllScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/home/view_all/ViewAllViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/movie_details/MovieDetailsScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/movie_details/MovieDetailsViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/movies/MoviesScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/movies/MoviesScreenViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/navigation/Destination.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/reviews/ReviewsScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/saved/SavedMoviesViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/saved/SavedScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/search/SearchScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/search/SearchScreenViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/settings/SettingsScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/settings/SettingsViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/similar/SimilarMoviesScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/similar/SimilarScreenViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/tvshows/ShowsScreen.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/presentation/tvshows/ShowsScreenViewModel.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/theme/Color.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/commonMain/kotlin/dev/robert/moviescatalogue/theme/Theme.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/iosMain/kotlin/dev/robert/moviescatalogue/MainViewController.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/iosMain/kotlin/dev/robert/moviescatalogue/Platform.ios.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/iosMain/kotlin/dev/robert/moviescatalogue/data/database/DatabaseFactory.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/iosMain/kotlin/dev/robert/moviescatalogue/data/datastore/createDataStore.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/iosMain/kotlin/dev/robert/moviescatalogue/di/AppModule.ios.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/composeApp/src/iosMain/kotlin/dev/robert/moviescatalogue/theme/Theme.ios.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/gradle/libs.versions.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/gradlew" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/gradlew.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/iosApp/Configuration/Config.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/iosApp/iosApp.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/iosApp/iosApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/iosApp/iosApp.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/iosApp/iosApp/Assets.xcassets/AccentColor.colorset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/iosApp/iosApp/Assets.xcassets/AppIcon.appiconset/app-icon-1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/iosApp/iosApp/Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/iosApp/iosApp/ContentView.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/iosApp/iosApp/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/iosApp/iosApp/Preview Content/Preview Assets.xcassets/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/iosApp/iosApp/iOSApp.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/settings.gradle.kts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/ss/1730923811879.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/ss/1730923816155.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoviesCatalogue/ss/1730923817348.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TodoApp/iosApp/iosApp/ContentView.swift" beforeDir="false" afterPath="$PROJECT_DIR$/TodoApp/iosApp/iosApp/ContentView.swift" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "manuelduarte077"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:manuelduarte077/DirtyArchitecture.git",
+    "accountId": "d85e0326-3ae4-4bcb-86f7-c7bb76d7e8fe"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2zg7IyeuUlkXouY8e5YnJxe1jTd" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "gitbutler/workspace",
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Console Colors"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="AppleRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" IS_LOCATION_SIMULATION_SUPPORTED="false" IS_LOCATION_SIMULATION_ALLOWED="true" APPLICATION_LANGUAGE="IDELaunchSchemeLanguageUseSystemLanguage" APPLICATION_REGION="" MAKE_ACTIVE="TRUE" SHOULD_DEBUG_EXTENSIONS="false">
+      <embedded_app_extension_list />
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b590592-18f2-4c5e-b956-1d7efdc2e41c" name="Changes" comment="" />
+      <created>1752140786570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1752140786570</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="com.apollographql.ijplugin.settings.ProjectSettingsState">
+    <option name="hasEnabledGraphQLPluginApolloKotlinSupport" value="true" />
+    <option name="lspPassPathToSuperGraphYaml" value="false" />
+    <option name="telemetryInstanceId" value="7a672cb7-1d7e-43a0-8ea4-784bf26f31c2" />
+  </component>
+</project>
